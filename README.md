@@ -5,7 +5,7 @@
 
 ## **Introduction**
 
-According to [“How Will the Movies Survive the Next 10 Years?”](<https://www.nytimes.com/interactive/2019/06/20/movies/movie-industry-future.html),  the movie industry is beginning to see a lot of changes that affect the profitability and “success” of a film. When major Hollywood figures were questioned about the future of movies, it brought on a discussion about  
+According to [“How Will the Movies Survive the Next 10 Years?”](https://www.nytimes.com/interactive/2019/06/20/movies/movie-industry-future.html),  the movie industry is beginning to see a lot of changes that affect the profitability and “success” of a film. When major Hollywood figures were questioned about the future of movies, it brought on a discussion about  
 
 *   What drives individuals to the movie theatres? 
 *   What makes certain movies worthy of watching at the movie theatres? (“theatricality”) 
