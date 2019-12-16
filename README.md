@@ -1535,7 +1535,7 @@ One seasoned director that did not quite follow the same trend is Spike Lee, who
 
 As for the newer directors like Darren Aronofsky and Christopher Nolan, they are bringing fresh perspectives to the table. Since they are newer directors, the public does not necessarily have high expectations for them as there is no proceeding movie to base their opinion. 
 
-A contradiction to this trend is James Wan, who saw an increasing trend in profits, but a downward trend in ratings. This is likely due to him working primarily on horror franchises, such as the Saw franchise. Moviegoers had no set standards for the first film, so when movie was released, profits and ratings were high. However, as the franchise progressed, the profits still remained high, but ratings became lower as fans now have a set standard for quality and originality.
+A contradiction to this trend is James Wan, who saw an increasing trend in profits, but a downward trend in ratings. This is likely due to him working primarily on horror franchises, such as the ***Saw*** franchise. Moviegoers had no set standards for the first film, so when movie was released, profits and ratings were high. However, as the franchise progressed, the profits still remained high, but ratings became lower as fans now have a set standard for quality and originality.
 
 From this analysis, we can see two outcomes:
 1. Seasoned directors tend to have higher profits due to stronger followings and a trend of decreasing IMDb scores (each are still significantly high) due to public's expectations for their films.
