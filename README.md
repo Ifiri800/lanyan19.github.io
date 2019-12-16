@@ -1,5 +1,5 @@
 
-# What factors significantly impact and determine whether a movie is successful?
+# What factors significantly impact and determine a mobie's success?
 
 ##### **Laura Anyanwu, Claire Lee, and Su'ad Mohamud**
 
